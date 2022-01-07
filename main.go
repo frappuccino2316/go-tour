@@ -5,7 +5,6 @@ import (
 )
 
 func main() {
-	r := '髙'
-	fmt.Printf("%v", r)
-	fmt.Println("")
+	a := [5]int{1, 2, 3}
+	fmt.Println(a)
 }
